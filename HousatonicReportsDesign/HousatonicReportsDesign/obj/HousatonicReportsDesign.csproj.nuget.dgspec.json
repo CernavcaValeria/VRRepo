@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/lerac/Desktop/Housatonic/Sites/Visual Reports/HousatonicReportsDesign/HousatonicReportsDesign/HousatonicReportsDesign.csproj": {}
+    "/Users/lerac/VRRepo/HousatonicReportsDesign/HousatonicReportsDesign/HousatonicReportsDesign.csproj": {}
   },
   "projects": {
-    "/Users/lerac/Desktop/Housatonic/Sites/Visual Reports/HousatonicReportsDesign/HousatonicReportsDesign/HousatonicReportsDesign.csproj": {
+    "/Users/lerac/VRRepo/HousatonicReportsDesign/HousatonicReportsDesign/HousatonicReportsDesign.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/lerac/Desktop/Housatonic/Sites/Visual Reports/HousatonicReportsDesign/HousatonicReportsDesign/HousatonicReportsDesign.csproj",
+        "projectUniqueName": "/Users/lerac/VRRepo/HousatonicReportsDesign/HousatonicReportsDesign/HousatonicReportsDesign.csproj",
         "projectName": "HousatonicReportsDesign",
-        "projectPath": "/Users/lerac/Desktop/Housatonic/Sites/Visual Reports/HousatonicReportsDesign/HousatonicReportsDesign/HousatonicReportsDesign.csproj",
+        "projectPath": "/Users/lerac/VRRepo/HousatonicReportsDesign/HousatonicReportsDesign/HousatonicReportsDesign.csproj",
         "packagesPath": "/Users/lerac/.nuget/packages/",
-        "outputPath": "/Users/lerac/Desktop/Housatonic/Sites/Visual Reports/HousatonicReportsDesign/HousatonicReportsDesign/obj/",
+        "outputPath": "/Users/lerac/VRRepo/HousatonicReportsDesign/HousatonicReportsDesign/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/lerac/.config/NuGet/NuGet.Config"

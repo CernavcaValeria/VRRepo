@@ -181,7 +181,7 @@ function createResizableDivForVisualElement(visualElementMainDivId, visualElemen
 
                 if (startResize) {
                     startResize = false;
-                    return;
+                    return; 
                 }
 
                 if (getElementSize(visualElement, true) < minimumElementWidth) {

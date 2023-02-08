@@ -1,0 +1,53 @@
+﻿<Properties StartupConfiguration="{BFA63EDB-4A4B-450C-80B6-550BD602173F}|Default">
+  <MonoDevelop.Ide.ItemProperties.HousatonicReportsDesign PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HousatonicReportsDesign/wwwroot/js/common.js">
+    <Files>
+      <File FileName="HousatonicReportsDesign/wwwroot/js/common.js" Line="171" Column="14" />
+      <File FileName="HousatonicReportsDesign/wwwroot/css/site.css" />
+      <File FileName="HousatonicReportsDesign/Pages/Index.cshtml" />
+      <File FileName="HousatonicReportsDesign/Pages/Shared/_Layout.cshtml" />
+      <File FileName="HousatonicReportsDesign/HousatonicReportsDesign.csproj" />
+      <File FileName="HousatonicReportsDesign/wwwroot/js/chart.js" />
+      <File FileName="HousatonicReportsDesign/wwwroot/js/table.js" />
+      <File FileName="HousatonicReportsDesign/wwwroot/js/image.js" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HousatonicReportsDesign" expanded="True">
+            <Node name="HousatonicReportsDesign" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+              </Node>
+              <Node name="Pages" expanded="True">
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="src" expanded="True">
+                <Node name="ReportDesigner" expanded="True">
+                  <Node name="Web" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
+                <Node name="js" expanded="True">
+                  <Node name="common.js" selected="True" />
+                </Node>
+                <Node name="lib" expanded="True">
+                  <Node name="bootstrap" expanded="True" />
+                  <Node name="jquery" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

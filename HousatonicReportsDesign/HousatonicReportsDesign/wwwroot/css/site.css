@@ -1,0 +1,115 @@
+﻿body {
+    background: #ecf0f1;
+    -webkit-user-select: none;
+    -webkit-touch-callout: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    color: #cc0000;
+    display: inline-block;
+    width: 5000px;
+    height: 5000px;
+}
+
+.tableContainer {
+    table-layout: fixed;
+}
+
+
+table {
+    font-size: 15px;
+    border: 2px solid black;
+    border-collapse: collapse;
+    outline: none;
+    table-layout: fixed;
+    table-layout: fixed;
+    max-width: 700px;
+}
+
+th[name="headerCellName"] {
+    table-layout: fixed;
+    font-weight: bold;
+    border: 2px solid black;
+}
+
+
+table tr td, table tr th, table tbody tr td, table thead tr td, table thead tr th {
+    table-layout: fixed;
+    word-wrap: break-word;
+    border: 2px solid black;
+    padding: -8px;
+    position: relative;
+    text-align: left;
+    box-sizing: border-box;
+    min-width: 30px;
+    background-color: white;
+}
+
+    table tr td:nth-child(1), table tr td:nth-child(4) {
+        text-align: left;
+    }
+
+.yResize {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 7px;
+    height: 100%;
+    background: transparent;
+    cursor: col-resize;
+}
+
+
+.resizable {
+    background: white;
+    position: absolute;
+    top: 100px;
+    left: 100px;
+}
+
+    .resizable .resizers {
+        width: 100%;
+        height: 100%;
+        border: 3px solid gray;
+        box-sizing: border-box;
+    }
+
+        .resizable .resizers .resizer {
+            width: 15px;
+            height: 15px;
+            border-radius: 50%;
+            background: white;
+            position: absolute;
+        }
+
+            .resizable .resizers .resizer.top-left {
+                width: 15px;
+                height: 15px;
+                left: -8px;
+                top: -8px;
+                cursor: nwse-resize;
+            }
+
+            .resizable .resizers .resizer.top-right {
+                width: 15px;
+                height: 15px;
+                right: -8px;
+                top: -8px;
+                cursor: nesw-resize;
+            }
+
+            .resizable .resizers .resizer.bottom-left {
+                width: 15px;
+                height: 15px;
+                left: -8px;
+                bottom: -8px;
+                cursor: nesw-resize;
+            }
+
+            .resizable .resizers .resizer.bottom-right {
+                width: 15px;
+                height: 15px;
+                right: -8px;
+                bottom: -8px;
+                cursor: nwse-resize;
+            }
